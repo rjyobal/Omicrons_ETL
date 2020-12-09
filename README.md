@@ -1,11 +1,11 @@
 # Omicrons_ETL: Air Pollution Effects by OECD Country
 Omicron Team:
 
-Cristina Elizondo
-Luz Yllescas
-Rafael Jimenez
-Erick Lara
-Alejandro Ochoa
+- Cristina Elizondo
+- Luz Yllescas
+- Rafael Jimenez
+- Erick Lara
+- Alejandro Ochoa
 
 ### Comments and Findings
 
